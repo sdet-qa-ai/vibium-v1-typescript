@@ -1,0 +1,32 @@
+{
+  "name": "vibium-v1-typescript",
+  "version": "1.0.0",
+  "description": "This repository is part of the SDET x AI YouTube series, where we explore next-generation browser automation using AI-first tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdet-qa-ai/vibium-v1-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdet-qa-ai/vibium-v1-typescript/issues"
+  },
+  "homepage": "https://github.com/sdet-qa-ai/vibium-v1-typescript#readme",
+  "devDependencies": {
+    "@types/chai": "^5.2.3",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^25.0.3",
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "vibium": "^0.1.2"
+  }
+}
